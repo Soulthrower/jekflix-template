@@ -1,15 +1,16 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: Golden Blog | Recueil d'idées pour arrondir ses fins de mois, améliorer son mode de vie, gagner de l'argent sur internet, construire un revenu passif
 email: youremail@xyz.com
-description: Some text about your blog.
+description: Ce blog à pour but de relater mes différentes expériementations pour mieux vivre financièrement. D'astuces qui peuvent rapporter quelques euros en passant par des techniques qui peuvent vous en rapporter plusieur milliers, tout ce que j'ai pu ou pourra trouver sera relaté ici. Bonne lecture, et à nous la richesse !
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Golden Blog
+surname: Mr Albert
+user_description: Je suis un homme de 25 ans travaillant dans l'informatique, passionné par la musique, et le design.
+disqus_username: goldenblog-1
 
 # Social Media
 # Remove the item if you don't need it
@@ -32,9 +33,9 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Accueil
     url: /
-  - title: About
+  - title: A propos
     url: /about/
   - title: Contact
     url: /contact/
