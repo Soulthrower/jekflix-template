@@ -2,7 +2,7 @@
 title: Golden Blog | Recueil d'idées pour arrondir ses fins de mois, améliorer son mode de vie, gagner de l'argent sur internet, construire un revenu passif
 email: youremail@xyz.com
 description: Ce blog à pour but de relater mes différentes expériementations pour mieux vivre financièrement. D'astuces qui peuvent rapporter quelques euros en passant par des techniques qui peuvent vous en rapporter plusieur milliers, tout ce que j'ai pu ou pourra trouver sera relaté ici. Bonne lecture, et à nous la richesse !
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.goldenblog.fr" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
@@ -27,7 +27,7 @@ highlighter: rouge
 permalink: /:title/
 
 # Plugins
-gems:
+plugins:
   - jemoji
 
 # Links to include in menu navigation
